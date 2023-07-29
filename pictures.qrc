@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>bkgnd.jpg</file>
+        <file>spaceship.png</file>
+        <file>planet.png</file>
+        <file>comet.gif</file>
+        <file>space_sounds.wav</file>
+    </qresource>
+</RCC>
